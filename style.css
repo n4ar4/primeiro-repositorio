@@ -1,0 +1,19 @@
+body {
+	background:228B2;
+}
+
+h1{ 
+    text-align: center;
+}
+  
+p {
+	text-align: center;
+}
+#missao{
+           font-size:19px;
+       }
+
+em strong {
+	color: #FFFFFF;
+	background:#191970;
+}
